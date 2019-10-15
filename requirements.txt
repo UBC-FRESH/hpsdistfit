@@ -6,3 +6,4 @@ geopandas
 seaborn
 pysal
 ipy_table
+lmfit
