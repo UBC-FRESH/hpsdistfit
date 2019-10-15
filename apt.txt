@@ -1,2 +1,5 @@
 libspatialindex-dev
 texlive
+texlive-latex-extra
+texlive-latex-extra
+texlive-fonts-recommended
