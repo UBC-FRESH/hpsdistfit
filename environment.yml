@@ -2,6 +2,12 @@ channels:
     - conda-forge
 dependencies:
     - matplotlib
-    - jupyterlab>=0.35
+    - numpy
+    - scipy
+    - pandas
+    - geopandas
+    - seaborn
+    - pysal
+    - lmfit
     - pip:
-      - jupyterlab_latex
+      - ipy_table

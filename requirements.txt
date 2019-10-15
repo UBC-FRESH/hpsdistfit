@@ -1,9 +1,1 @@
-matplotlib
-numpy
-scipy
-pandas
-geopandas
-seaborn
-pysal
-ipy_table
-lmfit
+
