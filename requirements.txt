@@ -1,1 +1,3 @@
-
+ipy_table
+pysal
+lmfit
